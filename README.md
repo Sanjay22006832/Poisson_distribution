@@ -1,5 +1,5 @@
-                                                               NAME:M Sanjay
-                                                               REG NO. 212222240090
+                                            NAME:M Sanjay
+                                            REG NO. 212222240090
 # EX-2: Fitting Poisson  distribution
 
 # Aim : 
